@@ -1,10 +1,10 @@
 ### Hi there 👋
-<p align="center">
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LexionN)](https://github.com/LordDashMe/github-contribution-stats/)
-</p>
-<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexionN&exclude_repo=github-readme-stats,anuraghazra.github.io)
-</p>
+
+
 <!--
 **LexionN/LexionN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
